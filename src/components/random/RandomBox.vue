@@ -13,8 +13,8 @@ export default {
 
 <style scoped>
 .random__box {
-  width: 300px;
-  height: 300px;
+  width: 310px;
+  height: 310px;
   background-color: #fff;
   display: flex;
   justify-content: center;
